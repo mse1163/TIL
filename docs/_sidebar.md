@@ -1,10 +1,10 @@
 
-- :lemon: Linux
+- :lemon: ML
 
-  - [리눅스 기본 명령어](/linux/linux_command.md)
+  - [머신러닝](/ML/머신러닝.md)
 
 
-- :snake: Python
+<!-- - :snake: Python
 
   - [파이썬을 쓰는 이유](/python/why_python.md)
   - [Assert문](/python/assert.md)
@@ -17,5 +17,5 @@
 
 - :cloud: Cloud
 
-  - [Heroku vs. AWS](/cloud/heroku_vs_aws.md)
+  - [Heroku vs. AWS](/cloud/heroku_vs_aws.md) -->
 
